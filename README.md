@@ -1,4 +1,4 @@
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/HandTill2001)](https://cran.r-project.org/package=HandTill2001)
+[![Build Status](https://travis-ci.org/fvafrCU/HandTill2001.svg?branch=master)](https://travis-ci.org/fvafrCU/HandTill2001)
 [![Coverage Status](https://codecov.io/github/fvafrCU/HandTill2001/coverage.svg?branch=master)](https://codecov.io/github/fvafrCU/HandTill2001?branch=master)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/HandTill2001)](https://cran.r-project.org/package=HandTill2001)
 [![RStudio_downloads_monthly](https://cranlogs.r-pkg.org/badges/HandTill2001)](https://cran.r-project.org/package=HandTill2001)
