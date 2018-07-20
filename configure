@@ -106,7 +106,7 @@ check: build
         printf '===== run\n\tmake install\n!!\n'
 build_bare: 
 	${R} --vanilla CMD build ../${rpackage}
-build: check_meta_info
+build: 
 	${R} --vanilla CMD build ../${rpackage}
 check_meta_info: 
 	./${check_meta_info_script}
