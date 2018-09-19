@@ -1,9 +1,0 @@
-\.git.*
-.*\.tar\.gz
-.*\.Rcheck
-^.travis\.yml$
-Makefile
-README.md
-TODO.md
-configure
-tmp_.*
